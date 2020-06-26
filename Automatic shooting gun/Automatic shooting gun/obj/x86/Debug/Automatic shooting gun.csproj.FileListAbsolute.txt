@@ -1,0 +1,9 @@
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\bin\Debug\Automatic shooting gun.exe
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\bin\Debug\Automatic shooting gun.pdb
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\Automatic_shooting_gun.Form1.resources
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\Automatic_shooting_gun.Properties.Resources.resources
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\Automatic shooting gun.exe
+C:\Users\Braxton\Desktop\Braxton Programs\Automatic shooting gun\Automatic shooting gun\obj\x86\Debug\Automatic shooting gun.pdb
