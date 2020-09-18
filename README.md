@@ -1,4 +1,4 @@
-# Automatic-Shooting-Gun-1-Braxton
+# Automatic-Shooting-Gun-1
 The code for an automatic shooting gun I made is here..
 The first code in the repository is for the visual studio 
 and the second code in the repository is for the arduino studio
