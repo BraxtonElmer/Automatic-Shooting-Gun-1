@@ -1,34 +1,4 @@
 # Automatic-Shooting-Gun-1
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171046631-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-171046631-1');
-</script>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i,900,900i" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/vendor/hover/hover.min.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/css/style.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/css/align.css" rel="stylesheet">
-  <link href="http://braxtonelmer.com/about_my_projects/assets/css/videoalign.css" rel="stylesheet">
-
-</head>
-
-<body>
-
-  
   <nav id="main-nav" class="subpage-nav">
     <div class="row">
       <div class="container">
@@ -172,10 +142,4 @@
   <script src="http://braxtonelmer.com/about_my_projects/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="http://braxtonelmer.com/about_my_projects/assets/vendor/venobox/venobox.min.js"></script>
   <script src="http://braxtonelmer.com/about_my_projects/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-
-  
   <script src="http://braxtonelmer.com/about_my_projects/assets/js/main.js"></script>
-
-</body>
-
-</html>
